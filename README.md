@@ -5,11 +5,13 @@
 ## Notebooks
 
 - Quickstart
-- EDA
-- Naive Bayes
+- [EDA](disaster-tweets-eda.ipynb)
+- [Naive Bayes](disaster-tweets-td-idf-naive-bayes.ipynb)
 - BERT
 - LSTM
 - TensorFlow
+- PyTorch
+- Transformers
 
 ## Topics
 
