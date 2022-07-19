@@ -9,6 +9,7 @@
 - [Naive Bayes](disaster-tweets-td-idf-naive-bayes.ipynb)
 - BERT
 - LSTM
+- Conv1D
 - TensorFlow
 - PyTorch
 - Transformers
