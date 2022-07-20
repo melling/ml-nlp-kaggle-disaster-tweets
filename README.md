@@ -12,6 +12,7 @@
 - [RNN](disaster-tweets-rnn.ipynb)
 - [DNN](disaster-tweets-dnn.ipynb)
 - [LSTM](disaster-tweets-lstm.ipynb)
+- [Bidirectional LSTM](disaster-tweets-bidirectional-lstm.ipynb)
 - [Conv1D](disaster-tweets-conv1d.ipynb)
 - TensorFlow
 - PyTorch
