@@ -7,16 +7,19 @@
 - Quickstart
 - [EDA](disaster-tweets-eda.ipynb)
 - [Naive Bayes](disaster-tweets-td-idf-naive-bayes.ipynb)
-- BERT
 - RNN
 - LSTM
 - Conv1D
 - TensorFlow
 - PyTorch
 - Transformers
-
+  - BERT
+  - RoBertA
+  
 ## Topics
 
 - Bag of Words
 - Tf-Idf
 - Transformers
+  - rotary positional embeddings
+  
