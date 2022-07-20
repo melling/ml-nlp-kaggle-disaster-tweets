@@ -7,9 +7,12 @@
 - Quickstart
 - [EDA](disaster-tweets-eda.ipynb)
 - [Naive Bayes](disaster-tweets-td-idf-naive-bayes.ipynb)
-- RNN
-- LSTM
-- Conv1D
+- Bag of Words with Logistic Regression
+- Tf-Idf with Logistic Regression
+- [RNN](disaster-tweets-rnn.ipynb)
+- [DNN](disaster-tweets-dnn.ipynb)
+- [LSTM](disaster-tweets-lstm.ipynb)
+- [Conv1D](disaster-tweets-conv1d.ipynb)
 - TensorFlow
 - PyTorch
 - Transformers
@@ -20,6 +23,7 @@
 
 - Bag of Words
 - Tf-Idf
+- Word Embeddings
 - Transformers
   - rotary positional embeddings
   
