@@ -28,6 +28,7 @@
 - Embeddings
   - Tf-Idf
   - CountVectorizer
+  - GloVe
 - Word Embeddings
 - Transformers
   - rotary positional embeddings
