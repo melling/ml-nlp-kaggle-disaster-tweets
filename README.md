@@ -23,7 +23,9 @@
 ## Topics
 
 - Bag of Words
-- Tf-Idf
+- Embeddings
+  - Tf-Idf
+  - CountVectorizer
 - Word Embeddings
 - Transformers
   - rotary positional embeddings
