@@ -18,7 +18,9 @@
 - PyTorch
 - Transformers
   - BERT
-  - RoBertA
+  - RoBERTa
+    - Base
+    - Large
   
 ## Topics
 
